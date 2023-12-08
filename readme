@@ -1,0 +1,6 @@
+Open Retools: https://lorenzhelle.retool.com/editor/5e170598-9611-11ee-99c4-1ba9fb83db7c/Story_Generator
+1. Create Pages
+2. Generate HTML
+3. Copy HTML to index.html at https://github.com/ExploApp/webstory_generator
+4. commit to branch
+5. Static site will be deployed on https://exploapp.github.io/webstory_generator/ with Github Pages
